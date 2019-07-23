@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "257daa7adb9ea6f503a431837614b103",
+    "revision": "2a64f26b208d2949598f2c31af34d0bb",
     "url": "/TaraReactDemo/build/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TaraReactDemo/build/static/js/2.39bbd3af.chunk.js"
   },
   {
-    "revision": "de3b4cfeef43c1110834",
-    "url": "/TaraReactDemo/build/static/js/main.41a942bb.chunk.js"
+    "revision": "3d46de4cb70235b02ef9",
+    "url": "/TaraReactDemo/build/static/js/main.e6832862.chunk.js"
   },
   {
     "revision": "9d9e1bc8d686d57bb2cc",
