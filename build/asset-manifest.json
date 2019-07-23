@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/static/js/main.41a942bb.chunk.js",
-    "main.js.map": "/static/js/main.41a942bb.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.d19c8617.chunk.css": "/static/css/2.d19c8617.chunk.css",
-    "static/js/2.ecb3dce4.chunk.js": "/static/js/2.ecb3dce4.chunk.js",
-    "static/js/2.ecb3dce4.chunk.js.map": "/static/js/2.ecb3dce4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.70b6e2cc914d32968b1665c8b3da132a.js": "/precache-manifest.70b6e2cc914d32968b1665c8b3da132a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.d19c8617.chunk.css.map": "/static/css/2.d19c8617.chunk.css.map"
+    "main.js": "/TaraReactDemo/static/js/main.41a942bb.chunk.js",
+    "main.js.map": "/TaraReactDemo/static/js/main.41a942bb.chunk.js.map",
+    "runtime~main.js": "/TaraReactDemo/static/js/runtime~main.21c506ca.js",
+    "runtime~main.js.map": "/TaraReactDemo/static/js/runtime~main.21c506ca.js.map",
+    "static/css/2.d19c8617.chunk.css": "/TaraReactDemo/static/css/2.d19c8617.chunk.css",
+    "static/js/2.dde2b171.chunk.js": "/TaraReactDemo/static/js/2.dde2b171.chunk.js",
+    "static/js/2.dde2b171.chunk.js.map": "/TaraReactDemo/static/js/2.dde2b171.chunk.js.map",
+    "index.html": "/TaraReactDemo/index.html",
+    "precache-manifest.72ae6e973e5dc021f902b8205662b187.js": "/TaraReactDemo/precache-manifest.72ae6e973e5dc021f902b8205662b187.js",
+    "service-worker.js": "/TaraReactDemo/service-worker.js",
+    "static/css/2.d19c8617.chunk.css.map": "/TaraReactDemo/static/css/2.d19c8617.chunk.css.map"
   }
 }

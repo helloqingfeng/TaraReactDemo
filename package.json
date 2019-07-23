@@ -10,6 +10,7 @@
     "react-scripts": "3.0.1",
     "redux": "^4.0.4"
   },
+  "homepage": "https://helloqingfeng.github.io/TaraReactDemo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
