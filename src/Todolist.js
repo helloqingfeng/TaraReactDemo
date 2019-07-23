@@ -31,14 +31,14 @@ class Todolist extends Component {
     }
 
     componentDidMount(){
-        axios.get('http://rap2api.taobao.org/app/mock/224997/fate001').then((res)=>{
+        axios.get('https://easy-mock.com/mock/5d3734d52cac0e2b10c4be18/twice001/poet').then((res)=>{
             console.log(res);
             const datalist=res.data;
             const action=getListAction(datalist);
             store.dispatch(action);
         });
 
-        axios.get('http://gank.io/api/data/%E7%A6%8F%E5%88%A9/10/1')
+        axios.get('https://gank.io/api/data/%E7%A6%8F%E5%88%A9/10/1')
         .then((res) => {
           const dataimg=res.data.results;
           console.log(dataimg);
