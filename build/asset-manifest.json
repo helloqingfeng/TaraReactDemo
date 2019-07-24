@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TaraReactDemo/build/static/css/main.f2219c6e.chunk.css",
-    "main.js": "/TaraReactDemo/build/static/js/main.d5539724.chunk.js",
-    "main.js.map": "/TaraReactDemo/build/static/js/main.d5539724.chunk.js.map",
+    "main.js": "/TaraReactDemo/build/static/js/main.601b8b01.chunk.js",
+    "main.js.map": "/TaraReactDemo/build/static/js/main.601b8b01.chunk.js.map",
     "runtime~main.js": "/TaraReactDemo/build/static/js/runtime~main.2a20382c.js",
     "runtime~main.js.map": "/TaraReactDemo/build/static/js/runtime~main.2a20382c.js.map",
     "static/css/2.d19c8617.chunk.css": "/TaraReactDemo/build/static/css/2.d19c8617.chunk.css",
     "static/js/2.99e2b892.chunk.js": "/TaraReactDemo/build/static/js/2.99e2b892.chunk.js",
     "static/js/2.99e2b892.chunk.js.map": "/TaraReactDemo/build/static/js/2.99e2b892.chunk.js.map",
     "index.html": "/TaraReactDemo/build/index.html",
-    "precache-manifest.22d5a7ea868ba993732cd06028a10ad5.js": "/TaraReactDemo/build/precache-manifest.22d5a7ea868ba993732cd06028a10ad5.js",
+    "precache-manifest.246d6f582a5dd52565f61fc159315646.js": "/TaraReactDemo/build/precache-manifest.246d6f582a5dd52565f61fc159315646.js",
     "service-worker.js": "/TaraReactDemo/build/service-worker.js",
     "static/css/2.d19c8617.chunk.css.map": "/TaraReactDemo/build/static/css/2.d19c8617.chunk.css.map",
     "static/css/main.f2219c6e.chunk.css.map": "/TaraReactDemo/build/static/css/main.f2219c6e.chunk.css.map"
