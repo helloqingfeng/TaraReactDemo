@@ -1,4 +1,5 @@
 import React from 'react';
+import './index.css'
 import 'antd/dist/antd.css';
 import {Input,Button,List,Row, Col,Layout} from 'antd';
 const { Header, Content,Footer } = Layout;
@@ -15,7 +16,7 @@ const TodoUI=(props)=>{
       <div style={{margin:'15px'}}>
                 <h2 style={{color:'teal',textAlign:'center'}}>TODO项目</h2>
                 <Input placeholder={props.inputValue}
-                style={{width:'300px',marginRight:'10px'}}
+                style={{width:'77%',marginRight:'1%'}}
                 onChange={props.changeInputValue}
                 value={props.inputValue}
                 />
@@ -23,7 +24,7 @@ const TodoUI=(props)=>{
                 type="primary"
                 onClick={props.clickBtn}
                 >
-                增加项目
+                添加项目
                 </Button>
                 <List
                 bordered
@@ -38,7 +39,7 @@ const TodoUI=(props)=>{
             </div>
       </Content>
       <Content>
-      <h2 style={{color:'teal',textAlign:'center'}}>那些年喜欢过的女神</h2>
+      <h2 style={{color:'teal',textAlign:'center'}}>这些年喜欢的女神</h2>
           <List
                 bordered
                 dataSource={props.imgs}
