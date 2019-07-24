@@ -38,7 +38,7 @@ const TodoUI=(props)=>{
             </div>
       </Content>
       <Content>
-      <h2 style={{color:'teal',textAlign:'center'}}>美女福利</h2>
+      <h2 style={{color:'teal',textAlign:'center'}}>那些年喜欢过的女神</h2>
           <List
                 bordered
                 dataSource={props.imgs}
@@ -46,7 +46,8 @@ const TodoUI=(props)=>{
                 renderItem={(item) =>(
                 <List.Item>
                     <div style={{margin:'0 auto'}}>
-                        <img src={item.url}  alt="美女" width="100%" />
+                        <h2 style={{color:'deeppink',textAlign:'center'}}>{item.who}</h2>
+                        <img src={item.url}  alt={item.who} width="100%" />
                     </div>
                 </List.Item>)}
                 />

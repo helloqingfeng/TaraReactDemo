@@ -38,7 +38,7 @@ class Todolist extends Component {
             store.dispatch(action);
         });
 
-        axios.get('https://gank.io/api/data/%E7%A6%8F%E5%88%A9/10/1')
+        axios.get('https://easy-mock.com/mock/5d3734d52cac0e2b10c4be18/twice001/girl')
         .then((res) => {
           const dataimg=res.data.results;
           console.log(dataimg);
