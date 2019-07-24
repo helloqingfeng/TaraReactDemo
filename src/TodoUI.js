@@ -1,15 +1,15 @@
 import React from 'react';
 import './index.css'
 import 'antd/dist/antd.css';
-import {Input,Button,List,Row, Col,Layout} from 'antd';
+import {Input,Button,List,Row,Col,Layout} from 'antd';
 const { Header, Content,Footer } = Layout;
 
 const TodoUI=(props)=>{
         return (
 <div>
     <Row>
-      <Col span={4}></Col>
-      <Col span={16}>
+      <Col xs={2} sm={4} md={4} lg={4} xl={4}></Col>
+      <Col xs={20} sm={16} md={16} lg={16} xl={16}>
       <Layout>
       <Header><h1 style={{color:'white',textAlign:'center'}}>Hello world</h1></Header>
       <Content>
@@ -58,7 +58,7 @@ const TodoUI=(props)=>{
       </Footer>
     </Layout>  
       </Col>
-      <Col span={4}></Col>
+      <Col xs={2} sm={4} md={4} lg={4} xl={4}></Col>
     </Row>
     </div>
          );
